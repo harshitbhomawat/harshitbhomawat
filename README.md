@@ -1,8 +1,7 @@
 
 # Harshit Singh Bhomawat
 
-I am currently working as a programmer analyst at Algowire Trading Technologies. I have experience of 1 year working as a c++ and c# developer. I have also experience of web development using Django, Node.js, React.js from the internships at Persistent Systems and Botx Automations.
-
+"I am currently employed as a Programmer Analyst at Algowire Trading Technologies. I possess one year of experience working as a developer in both C++ and C#. Additionally, I have gained experience in web development through internships at Persistent Systems and Botx Automations, where I worked with technologies such as Django, Node.js, and React.js."
 
 ## 🚀 About Me
 I'm a backend developer experienced in developing low latency softwares for linux and windows using c++ and c# respectively.
